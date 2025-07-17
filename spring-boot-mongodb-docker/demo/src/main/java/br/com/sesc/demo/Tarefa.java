@@ -5,7 +5,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.Objects;
 
-@Document(collection = "tasks")
+@Document(collection = "tarefas")
 public class Tarefa {
 
     @Id
