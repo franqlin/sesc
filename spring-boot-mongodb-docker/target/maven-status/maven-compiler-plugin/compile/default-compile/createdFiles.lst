@@ -1,0 +1,5 @@
+br/com/sesc/demo/controller/TarefaController.class
+br/com/sesc/demo/repository/TarefaRepository.class
+br/com/sesc/demo/SpringBootMongodbDockerApplication.class
+br/com/sesc/demo/entity/Tarefa.class
+br/com/sesc/demo/controller/HomeController.class

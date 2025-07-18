@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.sesc</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -14,7 +14,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.5</version>
+        <version>3.2.10</version>
         <relativePath/>
     </parent>
 
@@ -44,7 +44,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>br.com.sesc.demo.run.SpringBootMongodbDockerApplication</mainClass>
+                    <mainClass>br.com.sesc.demo.SpringBootMongodbDockerApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

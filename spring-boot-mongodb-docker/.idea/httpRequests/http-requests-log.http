@@ -1,0 +1,495 @@
+GET http://127.0.0.1:8080/senac/api/tarefa/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T053753.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T053729.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T053712.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T053646.404.json
+
+###
+
+GET http://localhost:8080/senac/senac/api/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T053642.404.json
+
+###
+
+GET http://localhost:8080/senac/senac/api/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T053623.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T053441.200.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/get/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T052134.200.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T052040.200.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T051848.200.json
+
+###
+
+POST http://localhost:8080/senac/api/tarefa/create
+Content-Type: application/json
+Content-Length: 98
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": "2",
+  "titulo": "Entrevista SESC SENAC",
+  "descricao": "As 11h",
+  "completo": false
+}
+
+<> 2025-07-18T051836.201.json
+
+###
+
+GET http://localhost:8080/senac/senac/api/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T051753.200.txt
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T051714.404.json
+
+###
+
+GET http://localhost:8080/senac/api/home/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T051625.200.txt
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T051346.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa/api/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T051121.200.json
+
+###
+
+POST http://localhost:8080/senac/api/tarefa/api/tarefas
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": "",
+  "titulo": "",
+  "descricao": "",
+  "completo": false
+}
+
+<> 2025-07-18T051006.201.json
+
+###
+
+POST http://localhost:8080/senac/api/tarefa
+Content-Type: application/json
+Content-Length: 77
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": "1",
+  "titulo": "qq",
+  "descricao": "qqqq",
+  "completo": false
+}
+
+<> 2025-07-18T050254.201.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T050249.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T050050.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T044857.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T044341.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T044232.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T044225.404.json
+
+###
+
+GET http://127.0.0.1:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043806.404.json
+
+###
+
+GET http://127.0.0.1:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043804.404.json
+
+###
+
+GET http://127.0.0.1:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043736.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043703.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043556.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043554.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043329.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T043313.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T042835.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T042759.404.json
+
+###
+
+GET http://localhost:8080/senac/api/tarefa
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T041658.404.json
+
+###
+
+POST http://localhost:8080/senac/api/tarefa
+Content-Type: application/json
+Content-Length: 77
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": "1",
+  "titulo": "qq",
+  "descricao": "qqqq",
+  "completo": false
+}
+
+<> 2025-07-18T035834.404.json
+
+###
+
+POST http://localhost:8080/senac/api/tarefa
+Content-Type: application/json
+Content-Length: 77
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": "1",
+  "titulo": "qq",
+  "descricao": "qqqq",
+  "completo": false
+}
+
+<> 2025-07-18T035735.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T035630.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T035611.404.json
+
+###
+
+GET http://localhost:8080/senac/
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T035319.404.json
+
+###
+
+POST http://localhost:8080/api/api/tarefa
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": "",
+  "titulo": "",
+  "descricao": "",
+  "completo": false
+}
+
+<> 2025-07-18T035205.404.json
+
+###
+
+GET http://localhost:8080/api/api/tarefa
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T035137.404.json
+
+###
+
+GET http://localhost:8080/api/api/tarefa
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 70
+
+{
+  "id": "",
+  "titulo": "",
+  "descricao": "",
+  "completo": false
+}
+
+<> 2025-07-18T035034.404.json
+
+###
+
+GET http://localhost:8080/api/api/tarefa
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 70
+
+{
+  "id": "",
+  "titulo": "",
+  "descricao": "",
+  "completo": false
+}
+
+<> 2025-07-18T035023.404.json
+
+###
+
+GET http://localhost:8080/api/api/tarefa
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T034923.404.json
+
+###
+
+GET http://localhost:8080
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T034042.404.json
+
+###
+
+GET http://localhost:8080/api/tarefa
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-18T033210.404.json
+
+###
+

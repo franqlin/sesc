@@ -1,7 +1,7 @@
 services:
   app:
     build:
-      context: ./demo
+      context: .
       dockerfile: Dockerfile
     ports:
       - "8080:8080"
@@ -10,7 +10,7 @@ services:
       MONGO_PASSWORD: password
     depends_on:
       - mongo
-    entrypoint: ["sh", "-c", "until nc -z mongo 27017; do echo waiting for mongo; sleep 2; done; java -jar app.jar"]
+    entrypoint: ["sh", "-c", "java -jar app.jar"]
     networks:
       - app-network
 
